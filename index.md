@@ -1,8 +1,12 @@
-## index.md
+## [index.md](/port.md)
 这里是 Cbscfe 的个人博客?\
 不...\
 算了 我也不知道是啥\
 反正
+
+### [Q&A](/Q&A.md)
+
+### [我的随记](/notes/index.md)
 
 ### 链接(按活跃度排序)
 - [QQ](user.qzone.qq.com/2567181665)
@@ -59,8 +63,6 @@ Lucas 全名 Lucas Conner 为... 反正是个人 整个人 真名\
 连着的五个\*一般都是了
 
 ---
-
-### [我的随记](temp)
 
 你可能是从[这里](https://libps.github.io/zh/introduction/member/Lucas "libps.github.io")过来的\
 更新于2025/10/8
