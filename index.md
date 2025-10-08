@@ -1,12 +1,11 @@
 ## [index.md](/port)
+
+### [随记](/notes/index)
+
 这里是 Cbscfe 的个人博客?\
 不...\
 算了 我也不知道是啥\
 反正
-
-### [Q&A](/Q&A)
-
-### [我的随记](/notes/index)
 
 ### 链接(按活跃度排序)
 - [QQ](user.qzone.qq.com/2567181665)

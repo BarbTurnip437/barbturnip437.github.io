@@ -4,7 +4,6 @@
 
 - [index](/index)
 - [port](/port)
-- [Q&A](/Q&A)
 - [README](/README)
 - notes
   - [index](/notes/index)
