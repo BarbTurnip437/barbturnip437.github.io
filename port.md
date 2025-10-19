@@ -2,7 +2,7 @@
 
 `.md`后缀省略
 
-- [index](/index)
+- [< index](/index)
 - [port](/port)
 - [README](/README)
 - notes
