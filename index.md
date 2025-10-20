@@ -11,8 +11,7 @@
 反正
 
 ### 链接
-(按活跃度排序)
-- [QQ](user.qzone.qq.com/2567181665)
+- [QQ](user.qzone.qq.com/2567181665) (但可能不看私信)
 - [X](https://x.com/Cbscfe)
 - [BiliBili](https://space.bilibili.com/3546606471219987)
 - 钉钉
@@ -67,4 +66,4 @@ Lucas 全名 Lucas Conner 为... 反正是个人 整个人 真名\
 ---
 
 你可能是从[< 这里](https://libps.github.io/zh/introduction/member/Lucas "libps.github.io")过来的\
-更新于 ... 你可以直接看 GitHub comment 的
+更新于 ... 你可以直接看 GitHub Commits 的
