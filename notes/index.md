@@ -4,6 +4,10 @@
 
 ---
 
+![icon.png](/icon.png)
+
+---
+
 ### 特殊的东西  
   
 ```qq_chat  
