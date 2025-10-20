@@ -17,7 +17,7 @@
 - [BiliBili](https://space.bilibili.com/3546606471219987)
 - 钉钉
 - [Github](https://github.com/BarbTurnip437)
-- Discord -> barbedturnip_qwq (不会做链接)
+- Discord -> barbedturnip_qwq (不会做链接 qwq)
 - [Luogu](https://www.luogu.com.cn/user/767126 "由于某些原因可能看不到这里面的内容")
 - ......
 
@@ -62,15 +62,9 @@ Lucas 全名 Lucas Conner 为... 反正是个人 整个人 真名\
 ...
 
 #### *****
-我们不清楚他是什么\
-我们希望能搞清楚\
-我们希望能更进一步
-
-我们不希望暴露其名字(说是我们其实他无所谓)\
-不过你们也不需要知道\
-连着的五个\*一般都是了
+**Censored**  
 
 ---
 
 你可能是从[< 这里](https://libps.github.io/zh/introduction/member/Lucas "libps.github.io")过来的\
-更新于2025/10/9
+更新于 ... 你可以直接看 GitHub comment 的
