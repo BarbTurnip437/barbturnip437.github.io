@@ -11,7 +11,7 @@
 反正
 
 ### 链接
-- [QQ](user.qzone.qq.com/2567181665) (但可能不看私信)
+- [QQ](https://user.qzone.qq.com/2567181665) (但可能不看私信)
 - [X](https://x.com/Cbscfe)
 - [BiliBili](https://space.bilibili.com/3546606471219987)
 - 钉钉 (sry but 内部)
