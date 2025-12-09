@@ -4,7 +4,7 @@
 
 ---
 
-![icon.png](/icon.png)
+![icon.png](/textures/icon.png)
 
 ---
 
