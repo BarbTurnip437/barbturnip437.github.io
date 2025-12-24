@@ -2,4 +2,4 @@
 
 |- 暂时暂停所有支持 -|
 
-![Cbscfe_dh.png](/textures/Cbscfe_dh.png)
+![Cbscfe_dark_highResolution.png](/textures/Cbscfe_dark_highResolution.png)
