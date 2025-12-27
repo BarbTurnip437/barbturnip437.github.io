@@ -1,18 +1,22 @@
 ## index.md
 
-### [作品 >](/software/index)
-### [随记 >](/notes/index)
+### [作品 &gt;](/software/index)
+
+### [随记 &gt;](/notes/index)
 
 ---
 
-这里是 Cbscfe 的个人博客?\
-不...\
-算了 我也不知道是啥\
+这里是 Cbscfe 的个人博客?
+不...
+算了 我也不知道是啥
 反正
 
 ### 链接
+
 - [QQ](https://user.qzone.qq.com/2567181665) (但可能不看私信)
+
 - [X](https://x.com/Cbscfe)
+
 - [BiliBili](https://space.bilibili.com/3546606471219987)
 - 钉钉
 - [Github](https://github.com/BarbTurnip437)
@@ -23,7 +27,8 @@
 ---
 
 ### 告示
-暂无
+
+#### 25/12/27 终于意识到自己被网暴了 热烈祝贺
 
 ---
 
@@ -31,5 +36,5 @@
 
 ---
 
-你可能是从[< 这里](https://libps.github.io/zh/introduction/member/Lucas "libps.github.io")过来的\
+你可能是从[&lt; 这里](https://libps.github.io/zh/introduction/member/Lucas "libps.github.io")过来的
 更新于 ... 你可以直接看 GitHub Commits 的
