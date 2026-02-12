@@ -1,2 +1,2 @@
-import math
-ma
+import rich.console
+rich.console.
