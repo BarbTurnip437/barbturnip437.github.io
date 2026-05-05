@@ -1,8 +1,8 @@
 ## index.md
 
-### [作品 &gt;](/software/index)
+### [作品 >](/software/index)
 
-### [随记 &gt;](/notes/index)
+### [随记 >](/notes/index)
 
 ---
 
@@ -30,6 +30,29 @@
 
 emm 26/01/23?  
 hi?
+
+### 好听的...
+
+<https://www.nicovideo.jp/watch/sm18800075>  
+<https://www.nicovideo.jp/watch/sm45258719>  
+<https://www.nicovideo.jp/watch/sm45869568>  
+<https://www.youtube.com/watch?v=BnkhBwzBqlQ>  
+<https://www.youtube.com/watch?v=_YpcTBm15QU>  
+<https://www.youtube.com/watch?v=ruBxsq03FZo>  
+<https://www.youtube.com/watch?v=sqK-jh4TDXo>  
+<https://www.youtube.com/watch?v=jDos7axCazU>  
+<https://www.youtube.com/watch?v=Y8lpoMoSe1I&list=OLAK5uy_lQK82u47UAav51NUHg3kJJpRkatknn_mQ&index=31>  
+<https://www.youtube.com/watch?v=HkAyolpKoRQ&list=PL6ptyAgw-J8NNStXdwhmPC5m4ZVYAwOSJ&index=1>  
+<https://www.youtube.com/watch?v=hkKoaWTjVds&list=PLN5L-o4iUBhb5BaVT5afOaNXDRvHsARtm&index=3>  
+
+<https://www.bilibili.com/video/BV1L5411J7BN>  
+<https://www.bilibili.com/list/ml3411494887>  
+
+### 宏定义
+
+```toml
+"Radmin 玩家" = 250
+```
 
 ---
 

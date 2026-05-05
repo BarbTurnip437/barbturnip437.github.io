@@ -1,0 +1,3 @@
+import gzip
+
+gzip.compress()
