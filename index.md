@@ -13,7 +13,7 @@
 
 ### 链接
 
-- [QQ](https://user.qzone.qq.com/2567181665) (但可能不看私信)
+- ~~QQ~~
 
 - [X](https://x.com/Cbscfe)
 
@@ -33,18 +33,21 @@ hi?
 
 ### 好听的...
 
+- niconico
 - [初音ミク　オリジナル曲　『ジベタトラベル』](https://www.nicovideo.jp/watch/sm18800075)
 - [【鏡音レン】理仮想電脳リミナリティ！【オリジナル】](https://www.nicovideo.jp/watch/sm45258719)
 - [JEREMIAD。/重音テト](https://www.nicovideo.jp/watch/sm45869568)
 
 ---
 
+- youtube
 - [Aiobahn +81 feat. KOTOKO - INTERNET OVERDOSE (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]](https://www.youtube.com/watch?v=BnkhBwzBqlQ)
 - [Machine Love (feat. Kasane Teto)](https://www.youtube.com/watch?v=sqK-jh4TDXo)
 - [親愛なるあなたは火葬/虻瀬 (Want To Be Cremated/Abuse)](https://www.youtube.com/watch?v=jDos7axCazU)
 
 ---
 
+- youtube list
 - [黄金数 / いよわ feat. 初音ミク・flower（Golden Number / Iyowa feat.Hatsune Miku・flower）](https://www.youtube.com/watch?v=_YpcTBm15QU&list=OLAK5uy_l17nu2Y7EQSLklsirsdGgOcr6unykn8sY&index=19)
 - [【初音ミク】　ミセエネン　【オリジナル】](https://www.youtube.com/watch?v=Y8lpoMoSe1I&list=OLAK5uy_lQK82u47UAav51NUHg3kJJpRkatknn_mQ&index=31)
 - [初音ミク『SENSELESSES』](https://www.youtube.com/watch?v=HkAyolpKoRQ&list=PL6ptyAgw-J8NNStXdwhmPC5m4ZVYAwOSJ&index=1)
@@ -52,6 +55,7 @@ hi?
 
 ---
 
+- bilibili
 - [黄勇,任浩铭 - 你看到的我 (DJ版)](https://www.bilibili.com/video/BV1L5411J7BN)
 - [【重音テトSV】社交恐惧症【にほしか】【中文CC字幕】](https://www.bilibili.com/list/ml3411494887)
 
